@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>Hola Me llamo Oswaldo</h1>
 
         <p className={styles.description}>
-          Estes es un ejemplo de un proyecto desplegado usando vercel jeje
+          Update
         </p>
 
         <div className={styles.grid}>
